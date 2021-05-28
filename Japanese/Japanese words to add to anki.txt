@@ -1,0 +1,4 @@
+# Japanese words to add to anki
+Format = kanji、kana
+---
+止まる、とまる
